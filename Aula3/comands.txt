@@ -1,0 +1,10 @@
+
+
+getwd()
+setwd()
+read.csv2("caso1.csv") -> mba
+hist(mba$salary)
+mba3 <- mba$salary[salary !=0 & salary!=999 & salary!=998 ]
+library()
+install.packages()
+filter(mba, salary!=999 & salary!=998 &salary!=0) ->mba2

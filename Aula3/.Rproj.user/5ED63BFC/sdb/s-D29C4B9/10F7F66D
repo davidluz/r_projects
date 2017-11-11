@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1510420259424.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "10F7F66D",
+    "lastKnownWriteTime" : 7308604914264011873,
+    "last_content_update" : 1510420259424,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "63A5719",
+        "caption" : "mba3",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=mba3&cache_key=63A5719",
+        "displayedObservations" : 274,
+        "environment" : "",
+        "object" : "mba3",
+        "preview" : 0,
+        "totalObservations" : 274,
+        "variables" : 13
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
